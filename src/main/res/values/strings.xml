@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SIGA</string>
+    <string name="login_usuario">Usuario:</string>
+    <string name="login_pass">Contraseña:</string>
+    <string name="sigamensaje">Sistema Integral de\nGestión de Tiempos</string>
+    <string name="proyecto">Proyecto:</string>
+    <string name="cliente">Cliente:</string>
+    <string name="numHorasEnCapturar">Núm. de horas en realizar la actividad:</string>
+    <string name="formatoFecha">dd/mm/yyyy</string>
+    <string name="fechaSel">Fecha de elaboración:</string>
+    <string name="descr_empresa">Logo de la empresa</string>
+</resources>

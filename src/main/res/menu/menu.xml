@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/logout"
+        android:icon="@mipmap/close"
+        android:title="Cerrar sesión"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/free"
+        android:icon="@mipmap/free"
+        android:title="Liberar Usuario"
+        app:showAsAction="ifRoom"/>
+</menu>
